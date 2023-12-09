@@ -3,12 +3,14 @@
 # Live Link: https://syncstudy-d2433.web.app/
 
 
-NB- Optional Task Completed
+NB- 
 1.A loading spinner used when the data is loading
 2.Used framer motion animation on the buttons
 3.Added a extra section "Important Notes"
 
-*New libraries used:  Lottie files, Framer motion, React Pdf Renderer, React Date Picker
+*Technologies used:  Lottie files, Framer motion, React Pdf Renderer, React Date Picker, ReactJS, Tailwind, Date Fns, Tanstack Query, React Date Picker, SwiperJs, Firebase,
+                     Sweet Alert, Toastify
+                     Server: NodeJS, ExpressJS, dotenv, CORS, MongoDB
 
 Features & Functionalities
 
