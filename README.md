@@ -15,7 +15,7 @@ NB-
 Features & Functionalities
 
 •Active Route Navbar : The website contains a navbar in every each route. When the user visits the home page the Home route  
-                       will be active on navbar such as it's background color will change and it will be underlined. Similarly for all of the other route
+                       will be active on navbar such as it's background color will change and it will be underlined. Similarly for all of the other route.
 
 • Banner Section :  Created a banner section with a carousel of 2 slides. slide to see the other slide
 
